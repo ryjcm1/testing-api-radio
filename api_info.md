@@ -70,7 +70,7 @@ data.content[0].items[0].href      .split("/")[last_index]
 }
 ```
 
-##to grab the mp3 url
+## to grab the mp3 url
 ```
   http://radio.garden/api/ara/content/listen/{channelId}/channel.mp3
 
